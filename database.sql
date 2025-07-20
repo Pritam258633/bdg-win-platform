@@ -1,0 +1,1 @@
+<!-- database.sql will be filled with real code in next step -->
