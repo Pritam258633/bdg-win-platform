@@ -1,0 +1,1 @@
+<!-- deposit.php will be filled with real code in next step -->
